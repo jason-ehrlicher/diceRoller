@@ -1,5 +1,5 @@
 # dice_roller
-Website simulatiing a rolling of D6, D8, or D10 dice.
+Website simulating a rolling of D6, D8, or D10 dice.
 
 ## User Storyboard:
 
